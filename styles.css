@@ -1,0 +1,24 @@
+@import url("styles/header.css");
+@import url("styles/apresentção.css");
+
+
+:root {
+    --fonte-principal: "Inter";
+    --cor-de-fundo: #ffffff;
+    --texto-primaria: #3A404E;
+    --texto-secundario: #667085;
+    --texto-terciaria: #101828;
+    --cor-botao: #8E2424;
+    --cinza-claro: #858585;
+}
+ 
+   
+    
+
+body {
+    background-color: var(--cinza-claro);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    width: 1440px;
+}
