@@ -1,0 +1,28 @@
+.metricas__container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 0 112px 96px 112px;
+}
+
+.metricas__titulo {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--cor-botao);
+}
+
+.metricas__subtitulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--texto-terciaria);
+    margin: 12px 0 8px 0;
+}
+
+.metricas__texto {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+}
+
+.metricas {
+    padding-left: 8px;
+}
