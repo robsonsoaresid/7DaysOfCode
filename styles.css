@@ -1,6 +1,7 @@
 @import url("styles/header.css");
 @import url("styles/apresentção.css");
 @import url("styles/metricas.css");
+@import url("styles/talentos.css");
 
 
 :root {
@@ -11,6 +12,7 @@
     --texto-terciaria: #101828;
     --cor-botao: #8E2424;
     --cinza-claro: #858585;
+    --cor-background: #be24240d;
 }
  
    

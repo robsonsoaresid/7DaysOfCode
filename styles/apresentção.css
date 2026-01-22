@@ -10,14 +10,14 @@
 }
 
 .aprentação__titulo {
-    font-size: 48px;
+    font-size: 3em;
     font-weight: 600;
     color: var(--texto-terciaria);
     margin: 24px 0;
 }
 
 .aprentação__texto {
-    font-size: 18px;
+    font-size: 1rem;
     font-weight: 400;
     color: var(--texto-secundario);
 }
