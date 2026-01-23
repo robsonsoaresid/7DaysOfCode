@@ -1,0 +1,36 @@
+.vagas {
+    margin: 0 80px 96px 80px;
+}
+.vagas__titulo {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--texto-terciaria);
+    width: 800px;
+    height: 30px;
+    margin: 0 auto;
+    padding: 64px 0 32px 0;
+}
+
+.vaga {
+    width: 768px;
+    border-radius: 16px;
+    padding: 24px 24px 28px 24px;
+    border: 1px solid var(--cor-borda);
+    margin: 24px auto;
+}
+
+.vaga__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--texto-terciaria);
+    
+}
+
+.vaga__info {
+    font-weight: 500;
+    color: var(--texto-secundario);
+    margin-top: 32px;
+
+    display: flex;
+    gap: 24px;
+}
