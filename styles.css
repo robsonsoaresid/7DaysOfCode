@@ -3,6 +3,7 @@
 @import url("styles/metricas.css");
 @import url("styles/talentos.css");
 @import url("styles/vagas.css");
+@import url("styles/depoimento.css");
 
 
 :root {
@@ -15,6 +16,7 @@
     --cinza-claro: #858585;
     --cor-background: #be24240d;
     --cor-borda: #EAECF0;
+    --cor-background2: #c3191908;
 }
  
    
